@@ -21,8 +21,8 @@ global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vag1WQFJf05d
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg";
 global.devs = "923135673658";
-global.sudo = process.env.SUDO || "94789958225,94757660788,94770730717,94785274495";
-global.owner = process.env.OWNER_NUMBER || "94789958225,94753574803";
+global.sudo = process.env.SUDO || "94754898399";
+global.owner = process.env.OWNER_NUMBER || "94754898399";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "true";
@@ -51,12 +51,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "🇱🇰 P͢O͢W͢E͢R͢ B͢Y͢ R͢C͢D͢ M͢D͢",
-  author: process.env.PACK_AUTHER || "𝐑𝐂𝐃",
+  caption: process.env.CAPTION || "IMESH",
+  author: process.env.PACK_AUTHER || "IMESH",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "𝐑𝐂𝐃 𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "𝐃𝐄𝐗𝐓𝐄𝐑,𝐕𝐈𝐏𝐄𝐑",
-  errorChat: process.env.ERROR_CHAT || "94789958225",
+  botname: process.env.BOT_NAME || "IMESH MD",
+  ownername: process.env.OWNER_NAME || "IMESH",
+  errorChat: process.env.ERROR_CHAT || "94754898399",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
