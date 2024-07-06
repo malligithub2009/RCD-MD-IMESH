@@ -1,7 +1,7 @@
 {
-   "name": "rcd-md",
+   "name": "IMESH-md",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by RCD ....",
+   "description": "Multi device whatsapp bot by IMESH ....",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
