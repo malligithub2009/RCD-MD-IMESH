@@ -1,7 +1,7 @@
 {
   "name": "IMESH-MD",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://telegra.ph/file/a789a7f2437c053ec829a.jpg",
+  "logo": "https://telegra.ph/file/54a5257d839eaa2b8f6b4.jpg",
   "keywords": ["RCD-MD", "DEXTER", "RCD MD","RCD NEW MD","RCD","DEXTER REPO"],
   "success_url": "/",
   "stack": "container",
@@ -20,7 +20,7 @@
     
     "IMAGE" : {
       "description": "THUMB IMAGE FOR BOT ",
-      "value": "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg",
+      "value": "https://telegra.ph/file/54a5257d839eaa2b8f6b4.jpg",
       "required" : true
     },
 
